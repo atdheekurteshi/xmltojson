@@ -15,7 +15,17 @@ import java.io.IOException;
 
 public class Main{
 
+    //*****References Used*****/
 
+    //http://www.mkyong.com/java/how-to-read-file-from-java-bufferedreader-example/
+    //https://www.mkyong.com/java/how-to-append-content-to-file-in-java/
+    //http://stackoverflow.com/questions/26358684/converting-bufferedreader-to-jsonobject-or-map
+    //http://stackoverflow.com/questions/26358684/converting-bufferedreader-to-jsonobject-or-map
+    //http://crunchify.com/how-to-write-json-object-to-file-in-java/
+    //http://www.cs.utexas.edu/~mitra/csSummer2012/cs312/lectures/fileIO.html
+    //https://www.mkyong.com/java/json-simple-example-read-and-write-json/
+
+    //***/
 
     /** Paths by default.
      *  private static final String FileName="kurteshi_tv_Program.xml";
